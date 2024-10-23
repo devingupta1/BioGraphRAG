@@ -1,0 +1,11 @@
+*.env
+*/.env
+*.DS_Store
+*/.DS_Store
+*/__pycache__
+*__pycache__
+*.chainlit
+*/.chainlit
+./storage_graph
+*./storage_graph
+*./backend/storage_graph
